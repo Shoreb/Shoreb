@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<a href="AQUI_TU_LINKEDIN">
+<a href="www.linkedin.com/in/shoreb-pava">
   <img src="https://img.shields.io/badge/-LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
