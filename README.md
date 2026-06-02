@@ -17,7 +17,7 @@
 
 <br>
 
-<h1 align="center"> 🪻About me </h1>
+<h1 align="center"> 🪻 About me </h1>
 
 Hello there! I'm **Shoreb Pava Ibañez**, a Software Analysis and Development student from Colombia.
 
