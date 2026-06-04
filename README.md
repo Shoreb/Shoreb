@@ -33,7 +33,7 @@ Currently improving my skills in frontend and backend development while building
 <br>
 
 
-<h1 align="center"> 🫧 Technologies </h1>
+<h1 align="center"> Technologies </h1>
 
 <div align="center">
 
