@@ -62,6 +62,6 @@ Currently improving my skills in frontend and backend development while building
 
 <div align="center">
 
-### Thanks for visiting my profile 💜
+### Thanks for visiting my profile
 
 </div>
