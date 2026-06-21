@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<a href="www.linkedin.com/in/shoreb-pava">
+<a href="https://co.linkedin.com/in/shoreb-pava-726697407">
   <img src="https://img.shields.io/badge/-LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
@@ -62,6 +62,6 @@ Currently improving my skills in frontend and backend development while building
 
 <div align="center">
 
-### Thanks for visiting my profile 💕
+### Thanks for visiting my profile!
 
 </div>
