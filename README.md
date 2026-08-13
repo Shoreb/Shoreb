@@ -1,67 +1,90 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1779811958/banner_xvlpz9.png" alt="banner"/>
+<img src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1786652180/banner_pkptpp.png" alt="Shoreb Pava Banner" width="100%"/>
 
 <br>
+
+### Software Analysis & Development Student
+
+**Building • Learning • Designing • Improving**
+
 <br>
 
 <a href="https://co.linkedin.com/in/shoreb-pava-726697407">
-  <img src="https://img.shields.io/badge/-LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://dev-shoreb.pantheonsite.io/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+---
 
-<h1 align="center"> About me </h1>
+## ✦ About Me
 
-Hello there! I'm **Shoreb Pava Ibañez**, a Software Analysis and Development student from Colombia.
+Hi! I'm **Shoreb Pava Ibañez**, a **Software Analysis and Development student from Colombia** passionate about building digital solutions that combine functionality, design and user experience.
 
-I’m passionate about:
+I'm especially interested in:
 
-- Full Stack Development
-- Modern Web Design
-- UI / UX
-- Technology and Problem Solving
+* Full Stack Development
+* UI / UX & Modern Web Design
+* Problem Solving
+* Learning new technologies
+* Building real-world projects
 
-Currently improving my skills in frontend and backend development while building real projects.
+Currently, I'm strengthening my skills in **frontend and backend development**, while working on personal and academic projects to put my knowledge into practice.
 
-<br>
+---
 
+## ⚡ Tech Stack
 
-<h1 align="center"> Technologies </h1>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
+### Frontend
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="55"/>
 
-</div>
+</td>
 
-<br>
+<td align="center" width="50%">
 
+### Backend & Programming
 
-<br>
+<img src="https://skillicons.dev/icons?i=python,java,go" height="55"/>
 
-<div align="center">
+</td>
+</tr>
 
-> “Code, design, learn, improve.”
+<tr>
+<td align="center" width="50%">
 
-</div>
+### Database
 
-<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" height="55"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,wordpress" height="55"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 <div align="center">
 
 ### Thanks for visiting my profile
+
+*"Code, design, learn, improve."*
 
 </div>
