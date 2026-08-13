@@ -93,17 +93,7 @@ I'm especially interested in:
 </tr>
 </table>
 
----
 
-📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shoreb&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoreb&layout=compact&hide_border=true&title_color=7C3AED&text_color=FFFFFF&bg_color=0D1117" height="165"/>
-
----
 </div>
 
 
