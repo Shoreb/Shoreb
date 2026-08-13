@@ -4,8 +4,6 @@
 
 <br>
 
-<div align="center">
-
 ### Software Analysis & Development Student
 
 **Building • Learning • Designing • Improving**
