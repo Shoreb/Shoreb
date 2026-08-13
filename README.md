@@ -6,49 +6,7 @@
 
 <div align="center">
 
-<svg width="520" height="50" viewBox="0 0 520 50" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-  <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#6D28D9">
-      <animate attributeName="stop-color"
-        values="#6D28D9;#A855F7;#C084FC;#7C3AED;#6D28D9"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </stop>
-
-```
-<stop offset="50%" stop-color="#C084FC">
-  <animate attributeName="stop-color"
-    values="#C084FC;#7C3AED;#6D28D9;#A855F7;#C084FC"
-    dur="5s"
-    repeatCount="indefinite"/>
-</stop>
-
-<stop offset="100%" stop-color="#7C3AED">
-  <animate attributeName="stop-color"
-    values="#7C3AED;#6D28D9;#A855F7;#C084FC;#7C3AED"
-    dur="5s"
-    repeatCount="indefinite"/>
-</stop>
-```
-
-  </linearGradient>
-</defs>
-
-<text
-x="260"
-y="33"
-text-anchor="middle"
-font-family="Arial, Helvetica, sans-serif"
-font-size="22"
-font-weight="600"
-fill="url(#purpleGradient)">
-Software Analysis & Development Student </text>
-
-</svg>
-
-</div>
+### Software Analysis & Development Student
 
 **Building • Learning • Designing • Improving**
 
