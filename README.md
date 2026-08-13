@@ -5,13 +5,13 @@
 <br>
 
 ### Software Analysis & Development Student
+<br>
 
 **Building • Learning • Designing • Improving**
 
-<br>
 
 <a href="https://co.linkedin.com/in/shoreb-pava-726697407">
-  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-a136d8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://dev-shoreb.pantheonsite.io/">
@@ -20,9 +20,22 @@
 
 </div>
 
----
+<h2 align="center">✦ About Me</h2>
 
-## ✦ About Me
+<table width="100%" border="0">
+<tr>
+
+<td width="45%" align="center" valign="middle">
+
+<img
+src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1786655735/character_nuadr5.png"
+width="360"
+alt="Shoreb Pava"
+/>
+
+</td>
+
+<td width="55%" valign="middle">
 
 Hi! I'm **Shoreb Pava Ibañez**, a **Software Analysis and Development student from Colombia** passionate about building digital solutions that combine functionality, design and user experience.
 
@@ -34,11 +47,13 @@ I'm especially interested in:
 * Learning new technologies
 * Building real-world projects
 
-Currently, I'm strengthening my skills in **frontend and backend development**, while working on personal and academic projects to put my knowledge into practice.
+</td>
 
----
+</tr>
+</table>
 
-## ⚡ Tech Stack
+
+<h2 align="center">⚡ Tech Stack</h2>
 
 <table align="center">
 <tr>
