@@ -5,9 +5,6 @@
 <br>
 
 ### Software Analysis & Development Student
-<br>
-
-**Building • Learning • Designing • Improving**
 
 
 <a href="https://co.linkedin.com/in/shoreb-pava-726697407">
@@ -20,7 +17,7 @@
 
 </div>
 
-<h2 align="center">✦ About Me</h2>
+<h2 align="center">🔮 About Me</h2>
 
 <table width="100%" border="0">
 <tr>
@@ -37,7 +34,7 @@ alt="Shoreb Pava"
 
 <td width="55%" valign="middle">
 
-Hi! I'm **Shoreb Pava Ibañez**, a **Software Analysis and Development student from Colombia** passionate about building digital solutions that combine functionality, design and user experience.
+Hi! I'm **Shoreb**, a **Software Analysis and Development student from Colombia** passionate about building digital solutions that combine functionality, design and user experience.
 
 I'm especially interested in:
 
@@ -53,7 +50,8 @@ I'm especially interested in:
 </table>
 
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">🧹 Tech Stack</h2>
+<br>
 
 <table align="center">
 <tr>
@@ -98,8 +96,9 @@ I'm especially interested in:
 
 
 <div align="center">
+<br>
 
-### Thanks for visiting my profile
+### Thanks for visiting my profile 🔮🐈‍⬛🌙
 
 *"Code, design, learn, improve."*
 
