@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1786652180/banner_pkptpp.png" alt="Shoreb Pava Banner" width="100%"/>
+<img src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1793063303/Programmer_witch_designing_GitHu__20261026200812_yas9pl.jpg" alt="Shoreb Pava Banner" width="100%"/>
 
 <br>
 
