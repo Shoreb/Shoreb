@@ -29,7 +29,7 @@
 
 <img
 src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1793059547/witch_gbmkto.png"
-width="280"
+width="320"
 alt="Shoreb Pava"
 />
 
