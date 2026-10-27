@@ -28,8 +28,8 @@
 <td width="45%" align="center" valign="middle">
 
 <img
-src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1793059327/Witch_programming_on_laptop_20261026190001-Photoroom_shjtxt.png"
-width="260"
+src="https://res.cloudinary.com/dcdbcpk3i/image/upload/v1793059547/witch_gbmkto.png"
+width="280"
 alt="Shoreb Pava"
 />
 
